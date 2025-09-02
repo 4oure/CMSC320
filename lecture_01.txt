@@ -1,0 +1,8 @@
+What is data science?
+    The application of computational and statistical techniques to address or gain
+    managerial or scientific insight into some problem in the real world.
+
+    Using data to solve problems
+        Decision Making
+        Product recommendation
+        Predicting outcome
