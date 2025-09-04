@@ -3,6 +3,24 @@ What is data science?
     managerial or scientific insight into some problem in the real world.
 
     Using data to solve problems
-        Decision Making
+        Decision making
         Product recommendation
         Predicting outcome
+
+AI: any technique that enables computers ot mimic human intelligence (decision trees, rules, logic, ML)
+
+ML: a subset of AI that uses statisitcal techniques that enable machines to use experience to improve at tasks
+
+Deep Learning: a subset of ML that uses vast amounts of data and multilayer neural nets to enable
+a machine to train tiself to perform tasks
+
+Big data describes datasets with large volume, created and updated with high velocity, that have variety in 
+structure and foramt. As more companie sand organizations collect and use big data, the demand for people with 
+data science skills grows.
+    Often collected from various sources, often from 3 v's: 
+        volume: vast amount of data generated or collected. volume of global data has increased exponentially
+        velocity: represents the speed at which data is generated, procesed, and analyzed, often in real-time or near real-time
+        variety: lots of different forms, like spreadsheets, tables, images, videos, sound, text, etc. 
+
+
+data collection <--> data processing <--> exploratory analysis and data viz <--> analysis, hypothesis, testing <--> insight and policy decision
