@@ -1,0 +1,56 @@
+Experimental design: the science and subfield of statistics about how to collect data effectively.
+
+
+Define the problem or research question you aim to address
+    Asking the right questions before solving a problem is a great start
+    Important to be specific
+
+For most data science applications, it comes down to predicting the uture
+    We answer the question: given set of options, whcih maximizes optimization criteria?
+
+Optimization criteria: objective or goal function --> we want to achieve
+
+Control vs Treatment group
+    control = no changes
+    treatment = group with change
+
+Independent variable are factors that may influence outcome
+Dependent variable is what you observe (outcome)
+
+Confounder variable
+    Extraneous variables/extenral factors that may influence the outcome
+    Can affect IV-DV relationships and distort results if not controlled
+    Not the sutdy focus but must be managed for valid conclusions
+
+Ways to deal with Confounder
+    Design stage (before data collection)
+        Sampling vs randomization
+            Randomization is randomly assigning participatns to the control group and the treatment group. This
+            minimizes system confounding, reduces the risk fo bias in either group being enriched for confounders, and help distribute confounding variables equally.
+        Restriction
+        Matching
+            Pair participants with similar confounder values across groups.
+    
+
+Observational Studies
+    Cross sectional Studies
+        Collects data from many different individuals at one specific single point of time
+    Retrospective (case control) Studies
+        Look back at past events to examine the relationship between exposure and outcome
+    Prospective (longtitudinal or cohort studies)
+
+A common method to minimize bias in experimental design is Binding
+    When the people involved ina n experiment don't know who's getting the real treatment and who's not. It is a technique used to make the subjects "blind" to which treatment or placebo they ar ebeing given. 
+    - Single-binding is when either the participants or researchers don't know
+    - Double binding is when both don't know.
+
+Identify which method for collecting data (observational study, experiment, simulation, or survey) is best in each following situation and explain
+
+1. The effect of a severe earthquake would have on the Salt Lake Valley.
+    Simulation
+2. Whether or not a certian coupon attached to the outside of a catalog makes recipients more likely to order products from a mail-order company.
+    Experiment
+3. Whether or not smoking has an effect on coronary heart disease.
+    Observational study
+4. Determining the average household income of homes in Salt Lake City.
+    Survey
